@@ -49,7 +49,7 @@ Ref 1: Screenshot Of Target System Info
 
 
 
-### Recoonaissance:
+### Reconnaissance:
 
 ![rec](https://github.com/user-attachments/assets/9eed0f38-7819-404b-b5dc-c93358904e46)
 
