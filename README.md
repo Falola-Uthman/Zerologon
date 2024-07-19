@@ -12,7 +12,7 @@ The primary aim of the Zerologon Vulnerability (CVE-2020-1472) project was to ex
 - Network Security: Enhanced knowledge of Active Directory, Netlogon Remote Protocol, and their security mechanisms.
 - Research and Documentation: Refined research skills by exploring various vulnerabilities and documenting findings comprehensively.
 - Penetration Testing: Enhanced my skills in identifying and exploiting vulnerabilities within network systems.
-- Incident Response: Improved ability to respond to and mitigate security incidents involving domain controllers.
+
 
 ## Tools Used
 - Python Scripts: Utilized for creating exploits and resetting AD passwords.
