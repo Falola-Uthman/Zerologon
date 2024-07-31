@@ -21,6 +21,7 @@ The primary aim of the Zerologon Vulnerability (CVE-2020-1472) project was to ex
 - Remote Access Tools: wmiexec.py for gaining remote access to domain controllers.
 - Logging and Monitoring Tools: wevtutil for clearing event logs and maintaining access.
 - Find script for your use at: https://github.com/risksense/zerologon/blob/master/set_empty_pw.py
+- Zerologon Whitepaper https://www.secura.com/uploads/whitepapers/Zerologon.pdf
 
 
 ## Steps
